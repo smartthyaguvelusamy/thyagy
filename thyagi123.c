@@ -1,7 +1,3 @@
-#include<stdio.h>
-#include<conio.h>
-int main()
-{
  #include <stdio.h>
  #define MAXSIZE 10     
 #include<stdio.h>
